@@ -1,16 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
+//question 02
 package com.mycompany.p32;
 
-/**
- *
- * @author Supuni
- */
-public class P32 {
+public class P32 
+{
 
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
+    public static void main(String[] args) 
+    {
+        
     }
 }
