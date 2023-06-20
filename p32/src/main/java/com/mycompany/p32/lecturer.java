@@ -1,13 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+//question 02
 package com.mycompany.p32;
 
-/**
- *
- * @author Supuni
- */
-public class lecturer {
-    
+public class lecturer implements speaker
+{
+    public void speak()
+    {
+        
+    }
 }
